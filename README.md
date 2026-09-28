@@ -4,6 +4,8 @@
 
 A reproducible, end-to-end MLOps pipeline that trains and serves a customer churn classifier.
 
+**Maintainer:** Priti Yadav
+
 You can access the live, deployed model here: **[ChurnOps Web App](https://churnops-9np9.onrender.com)**
 
 ```
