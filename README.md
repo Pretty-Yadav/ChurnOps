@@ -4,7 +4,7 @@
 
 A reproducible, end-to-end MLOps pipeline that trains and serves a customer churn classifier.
 
-You can access the live, deployed model here: **[ChurnOps Web App](https://churnops-ss5e.onrender.com/)**
+You can access the live, deployed model here: **[ChurnOps Web App](https://churnops-9np9.onrender.com)**
 
 ```
 Churn_Data Excel files
